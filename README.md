@@ -21,3 +21,26 @@ If you use something like [Grasscutter], we will automatically adjust the versio
 Please use the latest version instead of previous versions
 Thank you for your support!!!
 We welcome you
+
+Chinese：
+新版本支持4.4
+我们发现了许多有趣的功能
+但是我们要打开付费版本
+我们要与免费版分割
+您的账号请与我们联系
+我们发现的新功能：
+1.可以游泳的水的生成[我们发现这是一个独立的空间，是付费功能]
+2.七圣召唤的概率提升[可以调高数据，仅限剧情非服务器]
+3.水龙王水柱生成多条[重击生成]
+等...
+我们有许多的功能，等待你的玩法
+我们有400+的功能
+不过免费版只有200+的功能
+价格表：
+1天29.99$
+7天99.99$
+我们最高只支持7天[目前来看]
+如果你使用如[Grasscutter]我们会自动调整版本输出
+请使用最新版本，不用以往的版本
+感谢支持！！！
+我们欢迎你
