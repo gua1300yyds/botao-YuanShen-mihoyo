@@ -22,6 +22,9 @@ Please use the latest version instead of previous versions
 Thank you for your support!!!
 We welcome you
 
+Editing language: Yi Language
+Support call mode: point API
+
 Chinese：
 新版本支持4.4
 我们发现了许多有趣的功能
@@ -44,3 +47,6 @@ Chinese：
 请使用最新版本，不用以往的版本
 感谢支持！！！
 我们欢迎你
+
+编辑语言：易语言
+支持调用模式：point api
