@@ -14,9 +14,8 @@ We have many features waiting for your gameplay
 We have over 400 functions
 However, the free version only has 200+features
 Price List:
-1 day 29.99$
-7 days 99.99$
-We only support a maximum of 7 days [as of now]
+1 day https://www.9fk.shop//links/7D49E97B
+7 days https://www.9fk.shop//links/7D49E97B
 If you use something like [Grasscutter], we will automatically adjust the version output
 Please use the latest version instead of previous versions
 Thank you for your support!!!
@@ -40,9 +39,8 @@ Chinese：
 我们有400+的功能
 不过免费版只有200+的功能
 价格表：
-1天
-7天99.99$
-我们最高只支持7天[目前来看]
+1天https://www.9fk.shop//links/7D49E97B
+7天https://www.9fk.shop//links/7D49E97B
 如果你使用如[Grasscutter]我们会自动调整版本输出
 请使用最新版本，不用以往的版本
 感谢支持！！！
